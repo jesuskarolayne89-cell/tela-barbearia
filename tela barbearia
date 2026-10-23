@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Barbearia</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="principal">
+        <div class="a1">
+            <img src="logo.png" class="s2">
+            <div>
+                <h1>Minha agenda</h1>
+            <b>Quarta-feira 21 de outubro</b>
+            </div>
+        </div>
+
+        <div class="a2">
+            <img src="sino-removebg-preview (1).png" class="s1">
+        </div>
+
+    </header>
+
+    <div class="q1">
+        <div class="qdd">
+            <h4>Agendamento</h4>
+            <h1>8</h1>
+
+        </div>
+        
+        <div class="qdd">
+            <h4>Concluido</h4>
+            <h1>3</h1>
+
+
+
+        </div>
+        
+        <div class="qdd">
+            <h4>A receber</h4>
+            <h2>R$ 250</h1>
+
+        </div>
+        
+
+    </div>
+    
+    <br>
+
+    <div class="p1">
+        <h4>Agendamento do dia</h4>
+        <img src="image.png">
+
+    </div>
+    <br>
+
+    <div class="e1">
+        <div class="c1">
+            <h4>Qua</h4>
+            <b>21</b>
+            
+    
+        </div>
+    
+        <div class="c1">
+            <h4>Qui</h4>
+            <b>22</b>
+    
+        </div>
+    
+        <div class="c1">
+            <h4>Sex</h4>
+            <b>23</b>
+    
+        </div>
+    
+        <div class="c1">
+            <h4>Sáb</h4>
+            <b>24
+
+            </b>
+    
+        </div>
+
+    </div>
+
+    <div class="e2">
+        <div class="c2">
+            <h4>14:00</h4>
+            <div class="ol"></div>
+
+            <div class="p2">
+                <h2>Lucas Martins</h2>
+                <b>Corte degradê</b>
+                <h4>R$ 45,00</h4>
+                <div class="btn">
+                    <button class="b1">Ver cliente</button>
+                <button class="b2">Finalizar</button>
+
+                </div>
+
+            </div>
+
+
+
+        </div>
+
+        <div class="c2">
+
+            <h4>15:00</h4>
+  
+            <div class="ola"></div>
+
+            <div class="p2">
+                <h2>Rafael Souza</h2>
+                <b>Corte + Barba</b>
+                <h4>R$ 70,00</h4>
+
+                <button class="b3">Ver Agendamento</button>
+
+            </div>
+
+        </div>
+
+        <div class="c2">
+
+            <h4>16:00</h4>
+
+            <div class="olaa"></div>
+
+            <div class="p2">
+                <h2>
+                    Horário livre
+                </h2>
+
+                <h4>
+                    Reserve para encaixes ou descanço.
+                </h4>
+
+                <button class="b3">
+                    + Agendar Clientes
+
+                </button>
+
+            </div>
+
+        </div>
+
+    </div>
+</body>
+</html>
