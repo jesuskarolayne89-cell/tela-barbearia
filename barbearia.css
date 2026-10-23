@@ -1,0 +1,192 @@
+*{
+     margin: 0;
+}
+
+body{
+    width: 100%;
+    min-height: 100dvh;
+    background-color: rgb(0, 0, 0);
+
+
+}
+
+.principal{
+    width: 350px;
+    height: 80px;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+     
+}
+
+.s1{
+    width: 30px;
+}
+
+.s2{
+    width: 50px;
+}
+
+.a1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 15px;
+}
+
+.a2{
+    display: flex;
+    align-items: center;
+}
+
+.q1{
+    width: 100%;
+    height: 150px;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.qdd{
+    width: 100px;
+    height: 100%;
+    background-color: rgb(32, 30, 30);
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 15px;
+}
+
+h4{
+    color: white;
+}
+
+h2{
+    color: white;
+
+}
+
+h1{
+    color: white;
+}
+
+b{
+    color: white;
+}
+
+.p1{
+    width: 350px;
+    height: 20px;
+    justify-content: space-between;
+    display: flex;
+    padding: 10px;
+}
+
+.e1{
+    flex-direction: row;
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+}
+
+.c1{
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(32, 30, 30);
+    gap: 10px;
+    border-radius:15px ;
+
+    
+}
+
+.e2{
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+
+.c2{
+    width: 100%;
+    height: 155px;
+    background-color: rgb(0, 0, 0);
+    flex-direction: row;
+    display: flex;
+    gap: 10px;
+    padding: 15px;
+    align-items: center;
+}
+
+.ol{
+    width:3px ;
+    height: 100%;
+    background-color: orange;
+}
+
+.ola{
+    width:3px ;
+    height: 100%;
+    background-color: green;
+}
+
+.olaa{
+    width:3px ;
+    height: 100%;
+    background-color: rgb(146, 163, 146);
+}
+
+.p2{
+    width: 400px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.b1{
+    width: 100px;
+    border-radius: 15px;
+    background-color:rgb(0, 0, 0) ;
+    border: solid white;
+    color: white;
+}
+
+
+.b2{
+        width: 100px;
+        border-radius: 15px;
+        background-color:rgb(0, 0, 0) ;
+        border: solid white;
+        color: white;
+}
+
+.b3{
+    width: 270px;
+    height: 25px;
+    border-radius: 15px;
+    border: solid white;
+    background-color:rgb(0, 0, 0) ;
+    color: white;
+}
+
+.btn{
+    width: 200px;
+    gap: 10px;
+    flex-direction: row;
+    display: flex;
+}
+
+button:hover{
+    transform: scale(1.1);
+
+}
+
+
